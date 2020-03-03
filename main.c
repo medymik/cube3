@@ -6,7 +6,7 @@
 /*   By: mymik <mymik@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/03/03 08:19:20 by mymik             #+#    #+#             */
-/*   Updated: 2020/03/03 10:48:58 by mymik            ###   ########.fr       */
+/*   Updated: 2020/03/03 12:52:01 by mymik            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -46,6 +46,7 @@ int		main(int argc, char **argv)
 {
 	char	**tab;
 	int		status;
+
 
 	if (ft_paramshandle(argc, argv) == 1)
 	{
